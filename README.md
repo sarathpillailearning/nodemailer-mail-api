@@ -1,4 +1,6 @@
-# NodeMailer Mail API with React and Express using Google Mail API
+# NodeMailer Mail API with React and Express using Google Mail API 
+
+## [Download the project Here](https://github.com/sarathpillailearning/nodemailer-mail-api/archive/master.zip)
 
 Nodemailer is a Node.js  module that allows to send email directly. 
 
