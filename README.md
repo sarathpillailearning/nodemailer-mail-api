@@ -18,7 +18,7 @@ This is a small learning project on how to use the Nodemailer api for programati
 
 ## Installing
 
-**Clone the project MailServer (https://github.com/sarathpillailearning/nodemailer-mail-api/projects/2)  to your workspace.**
+**Clone the project MailServer to your workspace.**
 
 The Mail Server project consists of the necessary node packages for nodemailer, express and cors.
 
@@ -104,7 +104,7 @@ select a user type. *I have selected External user for my Project.*
 
 ###Configuring the React UI
 
-Clone the project MailClient (https://github.com/sarathpillailearning/nodemailer-mail-api/projects/3)  to your workspace. The MailClient project contains the necesssary code for the react mail API client.
+**Clone the project MailClient to your workspace. The MailClient project contains the necesssary code for the react mail API client.**
 
 On successful mail submission the message *Mail Sent Successfully* will be displayed.
 On any errors the message *Error Sending Mail* will be thrown from the application and displayed in the UI.
@@ -112,7 +112,7 @@ On any errors the message *Error Sending Mail* will be thrown from the applicati
 
 ## Authors
 
-* **Sarath Pillai** 
+**Sarath Pillai** 
 
 Connect @ https://www.linkedin.com/in/sarath-pillai-21bb85137/
 
