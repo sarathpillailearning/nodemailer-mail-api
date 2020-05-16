@@ -47,7 +47,8 @@ A mail broker is an agent which will provide with the necessary functionality wi
 
 ![NodemailerConf.png](images/NodemailerConf.PNG)
 
-###Configuring Mail API using Google Developer Console
+
+### Configuring Mail API using Google Developer Console
 
 1. Log in with your google account to https://console.developers.google.com/apis/dashboard
 
@@ -79,7 +80,7 @@ select a user type. *I have selected External user for my Project.*
 
 
 
-###Setting API Playground
+### Setting API Playground
 
 1. Navigate to https://developers.google.com/oauthplayground/ and click on the settings icon for oauth2 configuration.
 
@@ -104,7 +105,7 @@ select a user type. *I have selected External user for my Project.*
 ![AuthorizationCode.png](images/AuthorizationCode.png)
 
 
-###Configuring the React UI
+### Configuring the React UI
 
 **Clone the project *MailClient* to your workspace. The MailClient project contains the necesssary code for the react mail API client.**
 
