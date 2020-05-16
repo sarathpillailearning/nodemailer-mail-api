@@ -18,7 +18,7 @@ This is a small learning project on how to use the Nodemailer api for programati
 
 ## Installing
 
-**Clone the project MailServer to your workspace.**
+**Clone the project *MailServer* to your workspace.**
 
 The Mail Server project consists of the necessary node packages for nodemailer, express and cors.
 
@@ -57,6 +57,8 @@ Click on Google Dashboard as per the image below
 
 
 2. Next step would be to create a new project
+
+![OauthConsent.png](images/NewProject.png)
 
 3. After creating a project navigate to the oauth consent screen tab. Google will require an authorization consent and you should
 select a user type. *I have selected External user for my Project.*
@@ -104,7 +106,9 @@ select a user type. *I have selected External user for my Project.*
 
 ###Configuring the React UI
 
-**Clone the project MailClient to your workspace. The MailClient project contains the necesssary code for the react mail API client.**
+**Clone the project *MailClient* to your workspace. The MailClient project contains the necesssary code for the react mail API client.**
+
+Run npm install react to install all react node modules
 
 On successful mail submission the message *Mail Sent Successfully* will be displayed.
 On any errors the message *Error Sending Mail* will be thrown from the application and displayed in the UI.
